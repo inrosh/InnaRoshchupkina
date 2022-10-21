@@ -1,4 +1,5 @@
 # InnaRoshchupkina
+
 •	I have practical experience with the pet project;
 •	Worked with test documentation, wrote user stories, and clarified the functionality identified in the specification with the Product Owner;
 •	Created a checklist covering the entire application;
